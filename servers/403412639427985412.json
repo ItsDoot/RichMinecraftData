@@ -1,0 +1,17 @@
+[
+  {
+    "uid": "mc_phoenixmc_co",
+    "key": "server-mc_phoenixmc_co",
+    "name": "mc.phoenixmc.co"
+  },
+  {
+    "uid": "demo_spongepowered_org",
+    "key": "server-demo_spongepowered_org",
+    "name": "demo.spongepowered.org"
+  },
+  {
+    "uid": "play_toastynetworks_net",
+    "name": "play.toastynetworks.net",
+    "key": "server-play_toastynetworks_net"
+  }
+]
